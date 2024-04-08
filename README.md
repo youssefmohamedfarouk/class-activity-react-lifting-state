@@ -1,6 +1,6 @@
-# React Lifing State Lab
+# React Lifing State Class Activity
 
-Edit multiple JavaScript files in this lab to refactor this app to have multiple components that function as expected.
+Edit multiple JavaScript files in this activity to refactor this app to have multiple components that function as expected.
 
 ---
 
